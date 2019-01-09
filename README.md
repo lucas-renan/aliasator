@@ -1,2 +1,2 @@
 # aliasator
-insere automaticamente os meus 'alias' no arquivo bashrc
+insere diretamente os meus 'alias' disponíveis no 'gist' dentro do arquivo .bashrc
